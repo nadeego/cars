@@ -40,7 +40,7 @@ The model produced was able to predict a car's sale price within 5K of the actua
 
 This accuracy could be improved by including model information, which was omitted to preserve speed. Future work could reduce the 4K+ unique model types by creating generalized groups for each manufacturer.
 
-##Recommendations
+## Recommendations
 
 Without knowing more about the specific location of a dealership, the supply of cars or the dealer purchase price relative to the average sale price, only general recommendations can be made. 
 
