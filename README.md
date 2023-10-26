@@ -35,7 +35,7 @@ Several decisions were made in an attempt to improve the peformance of our predi
 2. The sale price of a car drops quickly from 0-35 years old, after which the average sale price increase and remains relatively high relative to vehicles between 20-35 yrs old.
 3. Cars of all types rarely sell for more than 10K if they've been driven more than 20K+ miles per year.
 
-## Predictive Model Evaluation
+### Predictive Model Evaluation
 The model produced was able to predict a car's sale price within 5K of the actual sale price 62.5% of the time. 
 
 This accuracy could be improved by including model information, which was omitted to preserve speed. Future work could reduce the 4K+ unique model types by creating generalized groups for each manufacturer.
