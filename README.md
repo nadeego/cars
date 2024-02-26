@@ -24,7 +24,7 @@ Several decisions were made in an attempt to improve the peformance of our predi
 ### Top features that tended to reduce the sales price
 
 1. The age of a car was the biggest determining factor in reduced sale price. After 35 years, however, the avg sale price rises and remains fairly high relative to cars aged 20-35 years.
-2. odometer values also had a largest negative impact on price. For every 100K miles, there appears to be between a 15K-20K drop in the highest observed sale price.
+2. odometer values also had a large negative impact on price. For every 100K miles, there appears to be between a 15K-20K drop in the highest observed sale price.
 3. fwd (front wheel drive), sedans and vehicles in 'fair', or 'good' condition had the next largest negative impact on price, followed by SUVs, hatchbacks and cars manufactured by Saturn.
 
 ### Top features that tended to increase the sales price
